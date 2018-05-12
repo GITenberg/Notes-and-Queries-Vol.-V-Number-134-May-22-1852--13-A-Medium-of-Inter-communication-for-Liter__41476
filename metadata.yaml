@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9248
     wikipedia: http://en.wikipedia.org/wiki/George_Bell_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41476#Notes-and-Queries-Vol.-V-Number-134-May-22-1852--13-A-Medium-of-Inter-communication-for-Liter_
 gutenberg_bookshelf: Notes and Queries
 gutenberg_issued: '2012-11-24'
 gutenberg_type: Text
